@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise AI Agent — 企业级 RAG 知识库智能体平台
 
 > **面向中小型企业的 AI 办公中枢** — 融合 RAG 知识库问答、智能邮件助理、文档管理中心三大核心场景，为企业提供"私有知识库 + AI 大模型"的一站式解决方案。
@@ -352,3 +353,7 @@ RAG_SCORE_THRESHOLD=0.3     # 相似度阈值
 ---
 
 > **文档版本**: v1.0.0 | **维护者**: Enterprise AI Agent Team
+=======
+# enterprise_ai_agent
+
+>>>>>>> origin/main
